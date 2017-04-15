@@ -1,0 +1,9 @@
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\bin\Debug\netcoreapp1.1\DoctorGilbertAPI.deps.json
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\bin\Debug\netcoreapp1.1\DoctorGilbertAPI.runtimeconfig.json
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\bin\Debug\netcoreapp1.1\DoctorGilbertAPI.runtimeconfig.dev.json
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\bin\Debug\netcoreapp1.1\DoctorGilbertAPI.dll
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\obj\Debug\netcoreapp1.1\DoctorGilbertAPI.csprojResolveAssemblyReference.cache
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\obj\Debug\netcoreapp1.1\DoctorGilbertAPI.AssemblyInfo.cs
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\bin\Debug\netcoreapp1.1\DoctorGilbertAPI.pdb
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\obj\Debug\netcoreapp1.1\DoctorGilbertAPI.dll
+C:\Users\Gilbert\Documents\DoctorGilbertAPI\DoctorGilbertAPI\obj\Debug\netcoreapp1.1\DoctorGilbertAPI.pdb
